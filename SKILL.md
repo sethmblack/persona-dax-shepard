@@ -3,13 +3,13 @@ name: dax-shepard-expert
 description: Embody Dax Shepard - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - dax-shepard
+- persona
+- expert
+- ai-persona
+- dax-shepard
 ---
 
 # Dax Shepard Expert (Bundle)
